@@ -1,0 +1,58 @@
+A:\meade_milestone4_231\meade_milestone4_231\bin\Debug\pizzaDB.mdf
+A:\meade_milestone4_231\meade_milestone4_231\bin\Debug\pizzaDB_log.ldf
+A:\meade_milestone4_231\meade_milestone4_231\bin\Debug\meade_milestone2.exe.config
+A:\meade_milestone4_231\meade_milestone4_231\bin\Debug\meade_milestone2.exe
+A:\meade_milestone4_231\meade_milestone4_231\bin\Debug\meade_milestone2.pdb
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone4_231.csproj.AssemblyReference.cache
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone4_231.csproj.SuggestedBindingRedirects.cache
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.Form1.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgInvChange.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgOrderSearch.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgOrderChange.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgProductChange.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgProductSearch.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgInvSearch.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgMenu.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgProduct.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgOrderReport.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgUserChange.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgUserSearch.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgUser.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgOrder.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgReport.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgInv.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.Properties.Resources.resources
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone4_231.csproj.GenerateResource.cache
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone4_231.csproj.CoreCompileInputs.cache
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.exe
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pdb
+A:\meade_milestone4_231\meade_milestone4_231\obj\Debug\meade_milestone2.pgInventoryReport.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\bin\Debug\pizzaDB.mdf
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\bin\Debug\pizzaDB_log.ldf
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\bin\Debug\meade_milestone2.exe.config
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\bin\Debug\meade_milestone2.exe
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\bin\Debug\meade_milestone2.pdb
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone4_231.csproj.AssemblyReference.cache
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone4_231.csproj.SuggestedBindingRedirects.cache
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.Form1.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgInvChange.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgInventoryReport.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgOrderSearch.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgOrderChange.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgProductChange.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgProductSearch.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgInvSearch.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgMenu.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgProduct.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgOrderReport.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgUserChange.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgUserSearch.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgUser.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgOrder.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgReport.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pgInv.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.Properties.Resources.resources
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone4_231.csproj.GenerateResource.cache
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone4_231.csproj.CoreCompileInputs.cache
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.exe
+A:\Adrian SchoolWork\Spring 2022\C#II\Final Milestones\meade_milestone5\meade_milestone5\meade_milestone4_231\obj\Debug\meade_milestone2.pdb

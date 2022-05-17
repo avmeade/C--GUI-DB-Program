@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meade_final", "meade_final\meade_final.csproj", "{FA51D854-F73B-49E7-ACA2-EC6FC0A65211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA51D854-F73B-49E7-ACA2-EC6FC0A65211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA51D854-F73B-49E7-ACA2-EC6FC0A65211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA51D854-F73B-49E7-ACA2-EC6FC0A65211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA51D854-F73B-49E7-ACA2-EC6FC0A65211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7FF5D49-DE10-4DCE-9B09-539EF364F3E1}
+	EndGlobalSection
+EndGlobal
